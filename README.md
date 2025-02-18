@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 - 👀 I’m interested in **IT, Web Development, and Graphic Designing**  
 - 🌱 I’m currently learning **Networking, mobile app development**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chanuthi-bogahapitiya-b2546b2bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAo%2F47pGRkaw63PchghD6A%3D%3D) | [GitHub](#)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chanuthi-bogahapitiya-b2546b2bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAo%2F47pGRkaw63PchghD6A%3D%3D) | [GitHub](https://github.com/chanu430)  
 - ⚡ Fun fact: **I love photography and traveling!**  
 
 ## 🛠 Technologies & Tools  
